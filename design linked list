@@ -4,35 +4,8 @@ class Node:
         self.next=None
         self.prev=None
         
-class MyLinkeList:
+class MyLinkedList:
     
-    def getIdNode(self,x):
-        n=self.head
-        for a in range(x):
-            n=n.next
-        return n
-    
-    def deletHead(self):
-        old=self.head
-        if self.size==1:
-            self.head==None
-            self.tail==None
-        else:
-            self.head.next.prev=None
-            self.head=self.head.next
-        del n
-            
-            
-    def deleteTail(self):
-        n=self.tail
-        if self.size==1:
-            self.head==None
-            self.tail==None
-        else:
-            self.tail.prev.next=None
-            self.tail=self.tail.prev
-        del n
-
     def __init__(self):
         """
         Initialize your data structure here.
@@ -41,6 +14,7 @@ class MyLinkeList:
         self.head=None
         self.tail=None
 
+ 
     def get(self, index: int) -> int:
         """
         Get the value of the index-th node in the linked list. If the index is invalid, return -1.
@@ -115,12 +89,36 @@ class MyLinkeList:
             del n
         self.size -=1
 
-
+    def getIdNode(self,x):
+        n=self.head
+        for a in range(x):
+            n=n.next
+        return n
+    
+    def deletHead(self):
+        old=self.head
+        if self.size==1:
+            self.head==None
+            self.tail==None
+        else:
+            self.head.next.prev=None
+            self.head=self.head.next
+        del n
+            
+            
+    def deleteTail(self):
+        n=self.tail
+        if self.size==1:
+            self.head==None
+            self.tail==None
+        else:
+            self.tail.prev.next=None
+            self.tail=self.tail.prev
+        del n
 # Your MyLinkedList object will be instantiated and called as such:
 # obj = MyLinkedList()
 # param_1 = obj.get(index)
 # obj.addAtHead(val)
 # obj.addAtTail(val)
 # obj.addAtIndex(index,val)
-# obj.deleteAtIndex(index)
 # obj.deleteAtIndex(index)
