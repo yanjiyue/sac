@@ -95,8 +95,8 @@ class MyLinkedList:
             n=n.next
         return n
     
-    def deletHead(self):
-        old=self.head
+    def deleteHead(self):
+        n=self.head
         if self.size==1:
             self.head==None
             self.tail==None
