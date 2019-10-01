@@ -10,3 +10,7 @@ https://leetcode.com/problems/min-stack/submissions/
 
 
 #筆記
+
+# 行事記錄
+week2 做design linklist
+week3 做min stacks與
