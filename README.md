@@ -7,3 +7,5 @@
 做min stack與implement queue using stacks；自學CS50
 # week4
 解釋set mismatch；自學CS50
+# week5
+做quick sort作業
