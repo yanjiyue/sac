@@ -4,8 +4,8 @@
 # week2 
 做design linklist
 # week3 
-做min stack與implement queue using stacks；自學CS50
+1、做min stack與implement queue using stacks；2、自學CS50
 # week4
 解釋set mismatch；自學CS50
 # week5
-做quick sort作業
+1、做quick sort作業；2、練習LeetCode，題目Two Sum
