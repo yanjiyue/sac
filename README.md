@@ -9,14 +9,18 @@
 
 ## 行事記錄
 ### week2 
-做[design linklist](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/design%20linked%20list.py)
+* 做[design linklist](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/design%20linked%20list.py)
 ### week3 
-1、做[min stack](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/min%20stack.py)與[implement queue using stacks](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Implement%20Queue%20using%20Stacks.py)；2、自學CS50
+* 做[min stack](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/min%20stack.py)與[implement queue using stacks](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Implement%20Queue%20using%20Stacks.py)
+* 自學CS50
 ### week4
-1、解釋[set mismatch](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/set%20mismatch%E8%A7%A3%E9%87%8B)；2、自學CS50
+* 解釋[set mismatch](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/set%20mismatch%E8%A7%A3%E9%87%8B)
+* 自學CS50
 ### week5
-1、做[quick sort](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.ipynb)作業及[推導圖](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.png)；2、練習LeetCode，題目[Two Sum](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/two%20sum.py)
+* 做[quick sort](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.ipynb)作業及[推導圖](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.png)
 ### week6
+* 完成[quick sort](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.ipynb)作業及[推導圖](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.png)
+* 練習LeetCode，題目[Two Sum](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/two%20sum.py)
 ### week7
 ### week8
 ### week9
