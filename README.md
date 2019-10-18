@@ -25,6 +25,7 @@
 ### week6
 * 完成[quick sort](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.ipynb)作業及[推導圖](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.png)
 * 練習LeetCode，題目[Two Sum](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/two%20sum.py)
+* [Univalued Binary Tree](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Univalued%20Binary%20Tree.py)
 ---
 ### week7
 ### week8
