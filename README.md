@@ -42,8 +42,8 @@
 ---
 ## 筆記
 ### linked list
-prev指向前面節點|item數據|指向後面的節點
-- LinkedList 特點
+>prev指向前面節點|item數據|指向後面的節點
+#### LinkedList 特點
  - 雙向鏈表實現
  - 元素時有序的，輸出順序與輸入順序一致
  - 允許元素為 null
