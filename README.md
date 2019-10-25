@@ -35,6 +35,7 @@
 * [Univalued Binary Tree](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Univalued%20Binary%20Tree.py)
 ---
 ### week7
+* 練習leetcode-[reverse integer](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/reverse%20integer.py)
 ### week8
 ### week9
 ### week10
