@@ -8,6 +8,11 @@
 * [heap sort](https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ---
 ---
+## 作業
+* hw1：[quick sort](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.ipynb)作業及[推導圖](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.png)
+
+---
+---
 ## 行事記錄
 ### week2 
 * 做[design linklist](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/design%20linked%20list.py)
