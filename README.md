@@ -4,13 +4,13 @@
 ---
 ---
 ## 練習
->[design linklist](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/design%20linked%20list.py)
->[min stack](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/min%20stack.py)
->[implement queue using stacks](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Implement%20Queue%20using%20Stacks.py)
->[set mismatch](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/set%20mismatch%E8%A7%A3%E9%87%8B)
->[Two Sum](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/two%20sum.py)
->[Univalued Binary Tree](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Univalued%20Binary%20Tree.py)
->[reverse integer](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/reverse%20integer.py)
+* [design linklist](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/design%20linked%20list.py)
+* [min stack](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/min%20stack.py)
+* [implement queue using stacks](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Implement%20Queue%20using%20Stacks.py)
+* [set mismatch](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/set%20mismatch%E8%A7%A3%E9%87%8B)
+* [Two Sum](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/two%20sum.py)
+* [Univalued Binary Tree](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Univalued%20Binary%20Tree.py)
+* [reverse integer](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/reverse%20integer.py)
 ---
 ---
 ## 課程資料
