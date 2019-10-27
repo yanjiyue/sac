@@ -1,4 +1,18 @@
 # 資料結構與演算法——楊子越
+## 作業
+* hw1：[quick sort](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.ipynb)作業及[推導圖](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.png)
+---
+---
+## 練習
+>[design linklist](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/design%20linked%20list.py)
+>[min stack](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/min%20stack.py)
+>[implement queue using stacks](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Implement%20Queue%20using%20Stacks.py)
+>[set mismatch](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/set%20mismatch%E8%A7%A3%E9%87%8B)
+>[Two Sum](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/two%20sum.py)
+>[Univalued Binary Tree](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Univalued%20Binary%20Tree.py)
+>[reverse integer](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/reverse%20integer.py)
+---
+---
 ## 課程資料
 * [linked list](https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.p)
 * [stack&queue](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.p)
@@ -7,47 +21,6 @@
 * [quick sort](https://docs.google.com/presentation/d/e/2PACX-1vSqz8sTxT4xyjgiz-htLvZd7FZ_5ZzgKf60pFEoNLU5S77JxrsGJ2vd15CdxlfLtT3g2aizHP-Ebk9b/pub?start=false&loop=false&delayms=3000&slide=id.p)
 * [heap sort](https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.p)
 * [merge sort](https://docs.google.com/presentation/d/e/2PACX-1vToxkEzc1H1RT5MI9G941KQFBC7GO_Efn95wTqXLEdr3LDBSNcQb-M46IOC-_RzZih6IBEwwy3rWQuE/pub?start=false&loop=false&delayms=3000&slide=id.p)
----
----
-## 作業
-* hw1：[quick sort](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.ipynb)作業及[推導圖](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.png)
-
----
----
-## 行事記錄
-### week2 
-> 做[design linklist](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/design%20linked%20list.py)
----
-### week3 
-> 做[min stack](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/min%20stack.py)與[implement queue using stacks](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Implement%20Queue%20using%20Stacks.py)
-> 自學CS50
----
-### week4
-> 解釋[set mismatch](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/set%20mismatch%E8%A7%A3%E9%87%8B)
-> 自學CS50
----
-### week5
-> 做[quick sort](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.ipynb)作業及[推導圖](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.png)
----
-### week6
-> 完成[quick sort](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.ipynb)作業及[推導圖](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.png)
-> 練習LeetCode，題目[Two Sum](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/two%20sum.py)
-> [Univalued Binary Tree](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Univalued%20Binary%20Tree.py)
----
-### week7
-> 練習leetcode-[reverse integer](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/reverse%20integer.py)
----
-### week8
-### week9
-### week10
-### week11
-### week12
-### week13
-### week14
-### week15
-### week16
-### week17
-### week18
 ---
 ---
 ## 筆記
