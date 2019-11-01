@@ -1,6 +1,7 @@
 # 資料結構與演算法——楊子越
 ## 作業
 * hw1：[quick sort](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.ipynb)作業及[推導圖](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.png)
+* [hw2](https://github.com/yanjiyue/sac/tree/master/%E4%BD%9C%E6%A5%AD/hw2)
 ---
 ---
 ## 練習
