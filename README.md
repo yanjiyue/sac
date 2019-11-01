@@ -85,5 +85,8 @@
 #### 複雜度
  - 歸併排序比較佔用記憶體，但卻是一種效率高且穩定的演算法。改進歸併排序在歸併時先判斷前段序列的最大值與後段序列最小值的關係再確定是否進行複製比較。如果前段序列的最大值小於等於後段序列最小值，則說明序列可以直接形成一段有序序列不需要再歸併，反之則需要。所以在序列本身有序的情況下時間複雜度可以降至O(n);TimSort可以說是歸併排序的終極優化版本，主要思想就是檢測序列中的天然有序子段（若檢測到嚴格降序子段則翻轉序列為昇冪子段）。在最好情況下無論昇冪還是降序都可以使時間複雜度降至為O(n)，具有很強的自適應性。
 ---
-[binary tree](http://www.csie.ntnu.edu.tw/~u91029/BinaryTree.html)
+### binary tree
+[binary tree1](http://www.csie.ntnu.edu.tw/~u91029/BinaryTree.html
+[binary tree2](https://new.qq.com/rain/a/20190118A0V28C)
+[binary tree3](https://baike.baidu.com/item/二叉树/1602879?fr=aladdin)
 ---
