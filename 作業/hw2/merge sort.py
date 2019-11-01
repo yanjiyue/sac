@@ -1,11 +1,11 @@
 class Solution(object):
-  def mergesort(self,list):
+  def merge_sort(self,list):
     if len(list)<=1:
         return list
     n=int(len(list)/2)#分為左右臨近的兩塊
     left=list[:n]
     right=list[n:]
-    return merge(mergesort(left),mergesort(right))#分別再對左右兩塊進行各自的左右分塊
+    return merge(merge_sort(left),merge_sort(right))#分別再對左右兩塊進行各自的左右分塊
 
 
   def merge(left,right):
