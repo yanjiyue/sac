@@ -15,7 +15,7 @@
        else:break
 
  class Solution(object):       
-    def heapsort(self,arr):
+    def heap_sort(self,arr):
       end=len(arr)-1
       while end>=0:#運行直到所有節點都被抽出
         for start in range(len(arr)):
