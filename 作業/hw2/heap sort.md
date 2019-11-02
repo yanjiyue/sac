@@ -95,3 +95,13 @@ def main():    *以下似與heap sort無關，故省略
 if __name__=="__main__":    
     main()
 ```
+此種排序的目標是使父節點大於或小於所有子節點，所以首先做了如下嘗試：
+![Image text](https://github.com/yanjiyue/leecode/blob/master/heap3.png)
+出現如下結果：
+![Image text](https://github.com/yanjiyue/leecode/blob/master/4.png)
+可見，一次這樣的循環，是將第一個數值放到該放的位置，所以需要每一個數值都運行一次，如下：
+![Image text](https://github.com/yanjiyue/leecode/blob/master/5.png)
+出現如下結果：
+![Image text](https://github.com/yanjiyue/leecode/blob/master/6.png)
+可見一旦數值被放到前面，root改變，前面的位置將不會變動
+*因此，嘗試讓其從頭再來一遍
