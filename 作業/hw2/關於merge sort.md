@@ -1,4 +1,4 @@
-# Merge sort
+# 作業_Merge sort
 ## 1、流程圖
 ![Image text](https://github.com/yanjiyue/leecode/blob/master/merge%20sort/1.png)
 ## 2、學習歷程
