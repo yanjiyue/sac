@@ -3,8 +3,7 @@
 ![Image text](https://github.com/yanjiyue/leecode/blob/master/merge%20sort/1.png)
 ## 2、學習歷程
 參考了[https://baike.baidu.com/item/归并排序/1639015?fr=aladdin](https://baike.baidu.com/item/归并排序/1639015?fr=aladdin)中的歸併操作：
-#
-` 歸併操作(merge)，也叫歸併演算法，指的是將兩個順序序列合併成一個順序序列的方法。`
+    ` 歸併操作(merge)，也叫歸併演算法，指的是將兩個順序序列合併成一個順序序列的方法。`
 #
 ` 如　設有數列{6，202，100，301，38，8，1}`
 #
