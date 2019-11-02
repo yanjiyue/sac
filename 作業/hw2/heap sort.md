@@ -104,4 +104,5 @@ if __name__=="__main__":    
 出現如下結果：
 ![Image text](https://github.com/yanjiyue/leecode/blob/master/6.png)
 可見一旦數值被放到前面，root改變，前面的位置將不會變動
-*因此，嘗試讓其從頭再來一遍
+*
+因此，嘗試讓其從頭再來一遍
