@@ -104,5 +104,28 @@ if __name__=="__main__":    
 出現如下結果：
 ![Image text](https://github.com/yanjiyue/leecode/blob/master/6.png)
 可見一旦數值被放到前面，root改變，前面的位置將不會變動
-*
+#
 因此，嘗試讓其從頭再來一遍
+![Image text](https://github.com/yanjiyue/leecode/blob/master/7.png)
+結果如下:
+![Image text](https://github.com/yanjiyue/leecode/blob/master/8.png)
+但如此的次数為n^2，並不是logn
+#
+因此思考，是否能不再管後面的數值（已經排序好的緣故）的情況下，進行再次調整：
+![Image text](https://github.com/yanjiyue/leecode/blob/master/9.png)
+此時，則不斷的將重排範圍縮短，同時保留了前面需重新調整的數值位子，此時的運行good的次數依然為n^2
+#
+所以，再次做如下調整：
+![Image text](https://github.com/yanjiyue/leecode/blob/master/10.png)
+出現如下錯誤：
+![Image text](https://github.com/yanjiyue/leecode/blob/master/11.png)
+如此看來似乎還是要在for end 下再加入for start，運行good的次數會更多,所以暫時仍採用，“文字說明”中的程式。
+## 3、文字說明
+![Image text](https://github.com/yanjiyue/leecode/blob/master/12.png)
+![Image text](https://github.com/yanjiyue/leecode/blob/master/13.png)
+heap sort之基本目標為將所以節點都作為根構建一遍二叉樹，故採用while使得每一輪的末尾值都能成為新的根； 在將新的root最為start構建二叉樹，如此反復，最終形成一個有順序的排列。
+
+## 4、參考網址
+（1）[https://baike.baidu.com/item/堆排序/2840151?fr=aladdin](https://baike.baidu.com/item/堆排序/2840151?fr=aladdin)
+#
+(2)[https://blog.csdn.net/qq_37653144/article/details/78449021](https://blog.csdn.net/qq_37653144/article/details/78449021)
