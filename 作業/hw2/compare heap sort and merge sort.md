@@ -18,6 +18,6 @@
 而在資料量較小且追求穩定性的情況下，比較適用merge sort。
 ##
 * 參考資料
-1、[https://blog.csdn.net/microsues/article/details/6107584](https://blog.csdn.net/microsues/article/details/6107584)
+1、[https://blog.csdn.net/microsues/article/details/6107584](https://blog.csdn.net/microsues/article/details/6107584)\n
 2、[https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.g6504c48e6e_0_6](https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.g6504c48e6e_0_6)
 3、[https://tingtseng.pixnet.net/blog/post/39924871-algorithm-time-complexity-演算法時間複雜度整理](https://tingtseng.pixnet.net/blog/post/39924871-algorithm-time-complexity-演算法時間複雜度整理)
