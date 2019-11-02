@@ -9,7 +9,8 @@
 ##
 另一方面看，merge sort像組團後比較，而heap sort比較像單點比較，直覺上merge sort也比heap sort來的穩定
 ##
-從他們的長相上看，merge sort為{a,b,c,d,e},Heap sort為![Image text](https://github.com/yanjiyue/leecode/blob/master/h%20und%20m/3.png)
+從他們的長相上看，merge sort為{a,b,c,d,e},Heap sort為
+![Image text](https://github.com/yanjiyue/leecode/blob/master/h%20und%20m/3.png)
 看上去，merge sort也給人比較穩定的感覺
 ##
 總的來說，merge sort比heap sort的優勢是穩定，而heap sort比merge sort的優勢在於節省空間
