@@ -63,7 +63,7 @@ void main() 
 ```python3
 def big_endian(arr,start,end):    
     root=start    
-    child=root*2+1 #左孩子  *這行的原因看不懂，所以改為了child=root+1，邏輯是一樣的  
+    child=root*2+1 #左孩子  <font color=#FF0000>*這行的原因看不懂，所以改為了child=root+1，邏輯是一樣的</font> 
     while child<=end:
     #孩子比最後一個節點還大，也就意味著最後一個葉子節點了，就得跳出去一次迴圈，已經調整完畢     
         if child+1<=end and arr[child]<arr[child+1]:
