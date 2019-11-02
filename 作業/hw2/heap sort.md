@@ -9,6 +9,7 @@
 * `最大堆調整（Max Heapify）：將堆的末端子節點作調整，使得子節點永遠小於父節點`
 * `創建最大堆（Build Max Heap）：將堆中的所有數據重新排序`
 * `堆排序（HeapSort）：移除位在第一個數據的根節點，並做最大堆調整的遞歸運算`
+###
 與以下兩段代碼：
 ```C++
 #include <iostream>
@@ -58,4 +59,39 @@ void main() 
     cout << endl;
     system("pause");
 }
+```
+```python3
+def big_endian(arr,start,end):    
+    root=start    
+    child=root*2+1 #左孩子  *這行的原因看不懂，所以改為了child=root+1，邏輯是一樣的  
+    while child<=end:
+    #孩子比最後一個節點還大，也就意味著最後一個葉子節點了，就得跳出去一次迴圈，已經調整完畢     
+        if child+1<=end and arr[child]<arr[child+1]:
+        #為了始終讓其跟子元素的較大值比較，如果右邊大就左換右，左邊大的話就默認           
+            child+=1            
+        if arr[root]<arr[child]:
+        #父節點小於子節點直接交換位置，同時座標也得換，這樣下次迴圈可以準確判斷：是否為最底層，
+        #是不是調整完畢                
+            arr[root],arr[child]=arr[child],arr[root]                
+            root=child                
+            child=root*2+1            
+        else:               
+        break
+         
+def heap_sort(arr): #無序區大根堆排序    
+    first=len(arr)//2 - 1    
+    for start in range(first,-1,-1):*range（）中的第三個數字為步數，可以省略，下面也一樣
+    #從下到上，從左到右對每個節點進行調整，迴圈得到非葉子節點        
+        big_endian(arr,start,len(arr)-1) #去調整所有的節點    
+    for end in range(len(arr)-1,0,-1):        
+        arr[0],arr[end]=arr[end],arr[0] #頂部尾部互換位置        
+        big_endian(arr,0,end-1) #重新調整子節點的順序，從頂開始調整*堅持了重新調整的目標，做了些許調整    
+    return arr
+     
+def main():    *以下似與heap sort無關，故省略
+    l=[3,1,4,9,6,7,5,8,2,10]    
+    print(heap_sort(l))
+ 
+if __name__=="__main__":    
+    main()
 ```
