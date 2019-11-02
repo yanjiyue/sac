@@ -17,7 +17,8 @@
 所以如果資料量過大的情況下，比較適用heap sort；
 而在資料量較小且追求穩定性的情況下，比較適用merge sort。
 ##
-* 參考資料
+## :star: 參考資料:
+##
 1、[https://blog.csdn.net/microsues/article/details/6107584](https://blog.csdn.net/microsues/article/details/6107584)
 ##
 2、[https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.g6504c48e6e_0_6](https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.g6504c48e6e_0_6)
