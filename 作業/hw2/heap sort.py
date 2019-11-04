@@ -3,12 +3,12 @@
       end=len(arr)-1
       while end>=0:#運行直到所有節點都被抽出
         for start in range(len(arr)):
-            good(arr,start,len(arr)-1)#開始一輪排序
+            self.good(arr,start,len(arr)-1)#開始一輪排序
         arr[0],arr[end]=arr[end],arr[0]#將末尾值與根互換，使最末值成為新根
         end-=1
       return arr
    
-    def good(arr,start,end):
+    def good(self,arr,start,end):
       root=start
       child=start+1
       while child<=end:
