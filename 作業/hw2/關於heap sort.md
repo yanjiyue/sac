@@ -124,6 +124,9 @@ if __name__=="__main__":    
 ![Image text](https://github.com/yanjiyue/leecode/blob/master/12.png)
 ![Image text](https://github.com/yanjiyue/leecode/blob/master/13.png)
 heap sort之基本目標為將所以節點都作為根構建一遍二叉樹，故採用while使得每一輪的末尾值都能成為新的根； 在將新的root最為start構建二叉樹，如此反復，最終形成一個有順序的排列。
+#
+改為助教要求的版本後如下：
+![Image text](https://github.com/yanjiyue/leecode/blob/master/b.png)
 
 ## 4、參考網址
 （1）[https://baike.baidu.com/item/堆排序/2840151?fr=aladdin](https://baike.baidu.com/item/堆排序/2840151?fr=aladdin)
