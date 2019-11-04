@@ -53,5 +53,7 @@ Def merge的部分本想如此做
 ![Image text](https://github.com/yanjiyue/leecode/blob/master/merge%20sort/7.png)
 merge sort之原理為先將數列切割為最小的list（長度為1）後比較組成長度為二倍的list，再將鄰組之間的數值分別比較插入；如此循環，直到list的長度變為原list的長度為止
 ![Image text](https://github.com/yanjiyue/leecode/blob/master/merge%20sort/8.png)
+改為助教要求的模式後如下：
+![Image text](https://github.com/yanjiyue/leecode/blob/master/merge%20sort/b.png)
 ## 4、參考資料
 [https://baike.baidu.com/item/归并排序/1639015?fr=aladdin](https://baike.baidu.com/item/归并排序/1639015?fr=aladdin)
