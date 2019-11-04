@@ -5,10 +5,10 @@ class Solution(object):
     n=int(len(list)/2)#分為左右臨近的兩塊
     left=list[:n]
     right=list[n:]
-    return merge(merge_sort(left),merge_sort(right))#分別再對左右兩塊進行各自的左右分塊
+    return self.merge(merge_sort(self,left),merge_sort(self.right))#分別再對左右兩塊進行各自的左右分塊
 
 
-  def merge(left,right):
+  def merge(self,left,right):
     r,l=0,0
     result=[]
     while l<len(left) and r<len(right):#left中的數分別與right中的數進行比較、插入
