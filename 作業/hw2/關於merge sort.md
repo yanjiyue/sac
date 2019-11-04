@@ -51,9 +51,12 @@ Def merge的部分本想如此做
 ![Image text](https://github.com/yanjiyue/leecode/blob/master/merge%20sort/6.png)
 改為助教要求後出現如下錯誤：
 ![Image text](https://github.com/yanjiyue/leecode/blob/master/merge%20sort/b1.png)
+#
 探究後得知原因為：
 ![Image text](https://github.com/yanjiyue/leecode/blob/master/merge%20sort/b2.png)
+#
 所以改為：
+#
 ![Image text](https://github.com/yanjiyue/leecode/blob/master/merge%20sort/b3.png)
 ## 3、文字說明
 ![Image text](https://github.com/yanjiyue/leecode/blob/master/merge%20sort/7.png)
