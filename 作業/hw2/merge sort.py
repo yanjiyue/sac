@@ -1,10 +1,10 @@
 class Solution(object):
-    def merge_sort(self,list):
-        if len(list)<=1:
-            return list
-        n=int(len(list)/2)#分為左右臨近的兩塊
-        left=list[:n]
-        right=list[n:]
+    def merge_sort(self,mylist):
+        if len(mylist)<=1:
+            return mylist
+        n=len(mylist)//2#分為左右臨近的兩塊
+        left=mylist[:n]
+        right=mylist[n:]
         return self.merge(self.merge_sort(left),self.merge_sort(right))#分別再對左右兩塊進行各自的左右分塊
 
 
@@ -18,7 +18,7 @@ class Solution(object):
             else:
                 result.append(right[r])
                 r+=1
-        result+=list(left[l:])
-        result+=list(right[r:])#將剩餘的數加回結果list後，防止值的丟失
+        result.extend(left[l:])
+        result.extend(right[r:])#將剩餘的數加回結果list後，防止值的丟失
 
         return result
