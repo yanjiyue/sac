@@ -17,7 +17,7 @@
 
 class Solution:
     def isPalindrome(self, x: int) -> bool:
-        if str(x) == str(x)[::-1]:
+        if str(x) == str(x)[::-1]:#將x變為字串後倒排，比較
             return True
         else:
             return False
