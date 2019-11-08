@@ -4,7 +4,7 @@
 * [hw2](https://github.com/yanjiyue/sac/tree/master/%E4%BD%9C%E6%A5%AD/hw2)
 ---
 ---
-## :diomand: 練習
+## :star: 練習
 * [design linklist](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/design%20linked%20list.py)
 * [min stack](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/min%20stack.py)
 * [implement queue using stacks](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Implement%20Queue%20using%20Stacks.py)
