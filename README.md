@@ -13,6 +13,7 @@
 * [Univalued Binary Tree](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Univalued%20Binary%20Tree.py)
 * [reverse integer](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/reverse%20integer.py)
 * [roman to integer](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/roman%20to%20integer.py)
+* [palindrome number](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/palindrome%20number.py)
 ---
 ---
 ## 課程資料
