@@ -96,19 +96,9 @@ class Solution(object):
                 root[0]=max
         elif item<root[0]:
             return self.delhelp(root[1],item)
-        elif item>root[0]:
-            return self.delhelp(root[2],item)
         else:
-            if root[1]==[] and tree[2]==[]:
-                root.clear()
-            elif root[1]==[]:
-                root[:]=root[2]
-            elif root[2]==[]:
-                root[:]=root[1]
-            else:
-                max=self.getmax(root[1])
-                root[0]=max
-        return True
+            return self.delhelp(root[2],item)
+       
         
     def getmax(self,root):
         if root[2]==[]:
