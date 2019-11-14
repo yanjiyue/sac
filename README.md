@@ -1,9 +1,7 @@
 # 資料結構與演算法——楊子越
 ## :star: 作業
 |hw1：[quick sort](https://github.com/yanjiyue/sac/blob/master/HW1/quicksort.ipynb)作業及[推導圖](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.png)|
-|---|
 |[hw2](https://github.com/yanjiyue/sac/tree/master/HW2)|
-|---|
 |[HW3](https://github.com/yanjiyue/sac/tree/master/HW3)|
 ---
 ---
