@@ -68,7 +68,10 @@ class Solution(object):
         if len(a)<1:
             return False
         elif len(a)==1:
-            return root
+            if root[0]!=item:
+                return root
+            else:
+                root.clear()
         else:
             if c==0:
                 return False
