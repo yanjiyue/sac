@@ -17,6 +17,7 @@
 * [roman to integer](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/roman%20to%20integer.py)
 * [palindrome number](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/palindrome%20number.py)
 * [design hashset](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/design%20hashset.py)
+* [remove element](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/remove%20element.py)
 ---
 ---
 ## 課程資料
