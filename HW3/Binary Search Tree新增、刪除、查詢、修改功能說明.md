@@ -268,7 +268,9 @@ def preorder(self, root,check):  #先序遍歷
 ```python=
     def search(self,node,item):#查
         if (node.val is None) or (item<node.val and node.left is None) or (item>node.val and node.right is None):return False#排除目標值肯定不存在的情況
-        elif node.val==item:return node#找到目標即返回
+        elif node.val==item:
+                print(True)
+                return node#找到目標即返回
         elif item<=node.val:#沒找到，則判斷是向左子樹找，還是右子樹找
             newnode=node.left
             return self.search(newnode,item)
