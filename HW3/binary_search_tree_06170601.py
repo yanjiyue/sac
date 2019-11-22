@@ -46,7 +46,9 @@ class Solution(object):
             
     def search(self,node,item):#查
         if (node.val is None) or (item<node.val and node.left is None) or (item>node.val and node.right is None):return False
-        elif node.val==item:return node
+        elif node.val==item:
+            print(True)
+            return node
         elif item<=node.val:
             newnode=node.left
             return self.search(newnode,item)
