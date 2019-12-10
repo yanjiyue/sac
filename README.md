@@ -21,6 +21,7 @@
 * [remove element](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/remove%20element.py)
 * [design hashmap](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/design%20hashmap.py)
 * [count and say](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/count%20and%20say.py)
+* [longest common prefix](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/longest%20common%20prefix.py)
 ---
 ---
 ## 課程資料
