@@ -107,3 +107,6 @@
 * [binary tree2](https://new.qq.com/rain/a/20190118A0V28C)
 * [binary tree3](https://baike.baidu.com/item/二叉树/1602879?fr=aladdin)
 ---
+### hash table
+[點擊此處](https://github.com/yanjiyue/sac/blob/master/HW4/hash%20table%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E5%8E%9F%E7%90%86%E8%A7%A3%E9%87%8B.md)
+### bfs/dfs
