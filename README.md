@@ -26,7 +26,7 @@
 * [sqrt(x)](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/sqrt(x).py)
 ---
 ---
-## 課程資料
+## :book: 課程資料
 * [linked list](https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.p)
 * [stack&queue](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.p)
 * [set](https://docs.google.com/presentation/d/e/2PACX-1vT6BvB7aI9oLgyum8tdIgGVr8kabqtwo8KZV3ayzKKQqGkpAnvrjT3JabWu-Hms9kUaDILyCU8-Qqhl/pub?start=false&loop=false&delayms=3000&slide=id.p)
@@ -44,8 +44,29 @@
 * [shortest path](https://docs.google.com/presentation/d/e/2PACX-1vTgHO5AkHJS6iN6bnnBMMdHv6E4rabnrC0KwyTRfjad8Ab3IQjbnGvZuQOjDC9t7nKqeroiwcuasJrI/pub?start=false&loop=false&delayms=3000&slide=id.g7b9afdb0e7_0_0)
 ---
 ---
-## 筆記
-### [linked list](https://blog.csdn.net/weixin_42139757/article/details/82108515)
+## :bookmark: 筆記 
+
+
+| sorting algorithm | average time | best time | worst time | extra space (in-place) | stability |
+| ----------------- | ------------ | --------- | ---------- | ---------------------- | --------- |
+| quick sort        | O(nlogn)     | O(nlogn)  | O(n^2)     | O(n)                   | unstable  |
+| merge sort        | O(nlogn)     | O(nlogn)  | O(nlogn)   | O(n)                   | stable    |
+| heap sort         | O(nlogn)     | O(nlogn)  | O(nlogn)   | O(1) | unstable  |
+
+
+
+| tree type          |        | average | worst |
+| ------------------ | ------ | ------- | ----- |
+| binary search tree | space  | O(n)    | O(n)  |
+| binary search tree | insert | O(logn) | O(n)  |
+| binary search tree | search | O(logn) | O(n)  |
+| binary search tree | delete | O(logn) | O(n)  |
+| red black tree | space  | O(n)    | O(n)  |
+| red black tree | insert | O(logn) | O(logn)  |
+| red black tree | search | O(logn) | O(logn)  |
+| red black tree | delete | O(logn) | O(logn)  |
+
+### :link: [linked list](https://blog.csdn.net/weixin_42139757/article/details/82108515)
 >prev指向前面節點|item數據|指向後面的節點
 #### LinkedList 特點
  - 雙向鏈表實現
@@ -54,7 +75,8 @@
  - 要找到某個結點，必須從頭開始遍曆。（查詢慢，增刪快）
  - 和 ArrayList 一樣，不是同步容器
 ---
-### [quick sort](https://baike.baidu.com/item/快速排序算法/369842?fromtitle=quick%20sort&fromid=18082058&fr=aladdin)
+ 
+### :runner: [quick sort](https://baike.baidu.com/item/快速排序算法/369842?fromtitle=quick%20sort&fromid=18082058&fr=aladdin)
 >快速排序（Quicksort）是對冒泡排序的一種改進。它的基本思想是：通過一趟排序將要排序的數據分割成獨立的兩部分，其中一部分的所有數據都比另外一部分的所有數據都要小，然後再按此方法對這兩部分數據分別進行快速排序，整個排序過程可以遞歸進行，以此達到整個數據變成有序序列。
 #### 排序流程
 快速排序演算法通過多次比較和交換來實現排序，其排序流程如下： 
@@ -71,7 +93,8 @@
 - 從i開始向後搜索，即由前開始向後搜索(i++)，找到第一個大於key的A[i]，將A[i]和A[j]的值交換；
 - 重複第3、4步，直到i=j； (3,4步中，沒找到符合條件的值，即3中A[j]不小於key,4中A[i]不大於key的時候改變j、i的值，使得j=j-1，i=i+1，直至找到為止。找到符合條件的值，進行交換的時候i， j指針位置不變。另外，i==j這一過程一定正好是i+或j-完成的時候，此時令迴圈結束）。
 ---
-### [heap sort](https://baike.baidu.com/item/堆排序/2840151?fr=aladdin)
+ 
+### :hamburger: [heap sort](https://baike.baidu.com/item/堆排序/2840151?fr=aladdin)
 >堆排序（英語：Heapsort）是指利用堆這種數據結構所設計的一種排序演算法。堆是一個近似完全二叉樹的結構，並同時滿足堆積的性質：即子結點的鍵值或索引總是小於（或者大於）它的父節點。
 #### 堆的操作
 在堆的數據結構中，堆中的最大值總是位於根節點（在優先佇列中使用堆的話堆中的最小值位於根節點）。堆中定義以下幾種操作：
@@ -80,7 +103,8 @@
 - 創建最大堆（Build Max Heap）：將堆中的所有數據重新排序
 - 堆排序（HeapSort）：移除位在第一個數據的根節點，並做最大堆調整的遞歸運算
 ---
-### [merge sort](https://baike.baidu.com/item/归并排序/1639015?fr=aladdin)
+ 
+### :melon: [merge sort](https://baike.baidu.com/item/归并排序/1639015?fr=aladdin)
 >歸併排序（MERGE-SORT）是建立在歸併操作上的一種有效的排序演算法,該演算法是採用分治法（Divide and Conquer）的一個非常典型的應用。將已有序的子序列合併，得到完全有序的序列；即先使每個子序列有序，再使子序列段間有序。若將兩個有序表合併成一個有序表，稱為二路歸併。歸併排序是一種穩定的排序方法。
 
 #### 歸併操作 
@@ -104,16 +128,18 @@
 #### 複雜度
  - 歸併排序比較佔用記憶體，但卻是一種效率高且穩定的演算法。改進歸併排序在歸併時先判斷前段序列的最大值與後段序列最小值的關係再確定是否進行複製比較。如果前段序列的最大值小於等於後段序列最小值，則說明序列可以直接形成一段有序序列不需要再歸併，反之則需要。所以在序列本身有序的情況下時間複雜度可以降至O(n);TimSort可以說是歸併排序的終極優化版本，主要思想就是檢測序列中的天然有序子段（若檢測到嚴格降序子段則翻轉序列為昇冪子段）。在最好情況下無論昇冪還是降序都可以使時間複雜度降至為O(n)，具有很強的自適應性。
 ---
-### binary tree
+ 
+### :palm_tree: binary tree
 * [binary tree1](http://www.csie.ntnu.edu.tw/~u91029/BinaryTree.html)
 * [binary tree2](https://new.qq.com/rain/a/20190118A0V28C)
 * [binary tree3](https://baike.baidu.com/item/二叉树/1602879?fr=aladdin)
 ---
-### hash table
+### :pineapple: hash table
 [點擊此處](https://github.com/yanjiyue/sac/blob/master/HW4/hash%20table%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E5%8E%9F%E7%90%86%E8%A7%A3%E9%87%8B.md)
 
 ---
-### bfs/dfs
+
+### :train2:  bfs/dfs
 [點擊此處](https://github.com/yanjiyue/sac/blob/master/HW5/%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83.md)
 
 ---
