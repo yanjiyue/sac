@@ -39,6 +39,7 @@
 ## :book: 行事曆
 ### week1
 無
+---
 ### week2
 * [linked list](https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.p)
 #### :link: [linked list](https://blog.csdn.net/weixin_42139757/article/details/82108515)
@@ -49,8 +50,11 @@
  - 允許元素為 null
  - 要找到某個結點，必須從頭開始遍曆。（查詢慢，增刪快）
  - 和 ArrayList 一樣，不是同步容器
- ### week3
+ ---
+### week3
 * [stack&queue](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.p)
+
+---
 ### week4
 * [set](https://docs.google.com/presentation/d/e/2PACX-1vT6BvB7aI9oLgyum8tdIgGVr8kabqtwo8KZV3ayzKKQqGkpAnvrjT3JabWu-Hms9kUaDILyCU8-Qqhl/pub?start=false&loop=false&delayms=3000&slide=id.p)
 * [insertion sort](https://docs.google.com/presentation/d/e/2PACX-1vQOTMDM-5-OUaGfnLUOFVgefFwSVRplSwnbicp0CXOQrB5H8RM_1Aq8o_4JxHlncEmhjvqk3tzcoB7s/pub?start=false&loop=false&delayms=3000&slide=id.p)
@@ -71,8 +75,11 @@
 - 從j開始向前搜索，即由後開始向前搜索(j--)，找到第一個小於key的值A[j]，將A[j]和A[i]的值交換； 
 - 從i開始向後搜索，即由前開始向後搜索(i++)，找到第一個大於key的A[i]，將A[i]和A[j]的值交換；
 - 重複第3、4步，直到i=j； (3,4步中，沒找到符合條件的值，即3中A[j]不小於key,4中A[i]不大於key的時候改變j、i的值，使得j=j-1，i=i+1，直至找到為止。找到符合條件的值，進行交換的時候i， j指針位置不變。另外，i==j這一過程一定正好是i+或j-完成的時候，此時令迴圈結束）。
+---
 ### week5
 放假
+
+---
 ### week6
 * [heap sort](https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.p)
 #### :hamburger: [heap sort](https://baike.baidu.com/item/堆排序/2840151?fr=aladdin)
@@ -83,6 +90,7 @@
 - 最大堆調整（Max Heapify）：將堆的末端子節點作調整，使得子節點永遠小於父節點
 - 創建最大堆（Build Max Heap）：將堆中的所有數據重新排序
 - 堆排序（HeapSort）：移除位在第一個數據的根節點，並做最大堆調整的遞歸運算
+---
 ### week7
 * [merge sort](https://docs.google.com/presentation/d/e/2PACX-1vToxkEzc1H1RT5MI9G941KQFBC7GO_Efn95wTqXLEdr3LDBSNcQb-M46IOC-_RzZih6IBEwwy3rWQuE/pub?start=false&loop=false&delayms=3000&slide=id.p)
 #### :melon: [merge sort](https://baike.baidu.com/item/归并排序/1639015?fr=aladdin)
@@ -109,19 +117,23 @@
 ##### 複雜度
  - 歸併排序比較佔用記憶體，但卻是一種效率高且穩定的演算法。改進歸併排序在歸併時先判斷前段序列的最大值與後段序列最小值的關係再確定是否進行複製比較。如果前段序列的最大值小於等於後段序列最小值，則說明序列可以直接形成一段有序序列不需要再歸併，反之則需要。所以在序列本身有序的情況下時間複雜度可以降至O(n);TimSort可以說是歸併排序的終極優化版本，主要思想就是檢測序列中的天然有序子段（若檢測到嚴格降序子段則翻轉序列為昇冪子段）。在最好情況下無論昇冪還是降序都可以使時間複雜度降至為O(n)，具有很強的自適應性。
  
- | sorting algorithm | average time | best time | worst time | extra space (in-place) | stability |
+| sorting algorithm | average time | best time | worst time | extra space (in-place) | stability |
 | ----------------- | ------------ | --------- | ---------- | ---------------------- | --------- |
 | quick sort        | O(nlogn)     | O(nlogn)  | O(n^2)     | O(n)                   | unstable  |
 | merge sort        | O(nlogn)     | O(nlogn)  | O(nlogn)   | O(n)                   | stable    |
 | heap sort         | O(nlogn)     | O(nlogn)  | O(nlogn)   | O(1) | unstable  |
+
+---
 ### week8
 * [binary tree](https://docs.google.com/presentation/d/e/2PACX-1vSC3P8sGElP48mJTjqT309470SmTFBwJXWsU9hTX2hg5tVpiG4yC703qA7ibPep-Qakmm2Mw_F-ScZh/pub?start=false&loop=false&delayms=3000&slide=id.p)
+---
 ### week9
 * [binary search tree](https://docs.google.com/presentation/d/e/2PACX-1vQgUh73yvSdxAvMH50DHWJ5lsCX8-daMxtoltU9rYW7xCmqYz2A1wOv0Vcx_F9KO5ZUvZBv3IF1TjGi/pub?start=false&loop=false&delayms=3000&slide=id.p)
 #### :palm_tree: binary tree
 * [binary tree1](http://www.csie.ntnu.edu.tw/~u91029/BinaryTree.html)
 * [binary tree2](https://new.qq.com/rain/a/20190118A0V28C)
 * [binary tree3](https://baike.baidu.com/item/二叉树/1602879?fr=aladdin)
+---
 ### week10
 * [red black tree](https://docs.google.com/presentation/d/e/2PACX-1vRxyJRARq0BNuGJq_o2cUHIXBWrRSZrAOyXOSt9qCTSjQtyp8XqFq3VuNn3gCt3sXenOZmWLqIjcyFs/pub?start=false&loop=false&delayms=3000&slide=id.g5fc27284d4_0_908)
 
@@ -136,24 +148,35 @@
 | red black tree | search | O(logn) | O(logn)  |
 | red black tree | delete | O(logn) | O(logn)  |
 
+---
 ### week11
 * [hash table](https://docs.google.com/presentation/d/e/2PACX-1vT1HO9Nl475k2bR0l1x8_Tr4V5Wzx0BEqp9bpmHckvj8kTeJehhYVlOJUDVPhLQm6kjGCJ_sLMSBUw5/pub?start=false&loop=false&delayms=3000&slide=id.g790b8351ca_0_114)
 #### :pineapple: hash table
 [點擊此處](https://github.com/yanjiyue/sac/blob/master/HW4/hash%20table%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E5%8E%9F%E7%90%86%E8%A7%A3%E9%87%8B.md)
+
+---
 ### week12
 * [breadth-first search](https://docs.google.com/presentation/d/e/2PACX-1vSYJYXUXvGAeTZ5fknxj_-EPm3zxgy4ITdImrXzy63Y-iZgs8uwVNmOaZlnx9fUNzsbo8kphvMTa0c4/pub?start=false&loop=false&delayms=3000&slide=id.p)
+---
 ### week13
 * [depth-first search](https://docs.google.com/presentation/d/e/2PACX-1vTma_vOZyE70O23KWw4I4Y78aAaT5fJSTq7Mae912kCwka_u5ZMWPoo14D86-x-57kZPbb6hAGktSW4/pub?start=false&loop=false&delayms=3000&slide=id.p)
 #### :train2:  bfs/dfs
 [點擊此處](https://github.com/yanjiyue/sac/blob/master/HW5/%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83.md)
 
+---
 ### week14
 * [minimum spanning tree](https://docs.google.com/presentation/d/e/2PACX-1vTorNDEyhYA4ZAt5jEqOmFs2cQiUAYvkTp-R0DOn9B3c1MuUecV-a1wNakFIrJxA6AoUFGzbl3OQBIJ/pub?start=false&loop=false&delayms=3000&slide=id.g5fc27284d4_0_908)
+---
 ### week15
 * [shortest path](https://docs.google.com/presentation/d/e/2PACX-1vTgHO5AkHJS6iN6bnnBMMdHv6E4rabnrC0KwyTRfjad8Ab3IQjbnGvZuQOjDC9t7nKqeroiwcuasJrI/pub?start=false&loop=false&delayms=3000&slide=id.g7b9afdb0e7_0_0)
+---
 ### week16
 複習
+
+---
 ### week17
 期末考
+
+---
 ### week18
 放假
