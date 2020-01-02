@@ -12,6 +12,9 @@
 |文件夾|HW*|CS50|Leetcode|
 |---|---|---|---|
 |存放內容|各次作業|學習CS50的筆記|練習試題|
+
+---
+
 ## :star: 作業
 |hw1：[quick sort](https://github.com/yanjiyue/sac/blob/master/HW1/quicksort.ipynb)作業及[推導圖](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.png)|
 |---|
@@ -22,21 +25,21 @@
 |[HW6](https://github.com/yanjiyue/sac/tree/master/HW6)|
 
 ---
-## :star: 練習
-* [design linklist](https://github.com/yanjiyue/sac/blob/master/Leecode/707%23_Design%20Linked%20List_06170601.py)
-* [min stack](https://github.com/yanjiyue/sac/blob/master/Leecode/155%23_Min%20Stack_06170601.py)
-* [implement queue using stacks](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Implement%20Queue%20using%20Stacks.pyhttps://github.com/yanjiyue/sac/blob/master/Leecode/232%23_Implement%20Queue%20using%20Stacks_06170601.py)
-* [Two Sum](https://github.com/yanjiyue/sac/blob/master/Leecode/1%23_Two%20Sum_06170601.py)
-* [Univalued Binary Tree](https://github.com/yanjiyue/sac/blob/master/Leecode/965%23_Univalued%20Binary%20Tree_06170601.py)
-* [reverse integer](https://github.com/yanjiyue/sac/blob/master/Leecode/7%23_Reverse%20Integer_06170601.py)
-* [roman to integer](https://github.com/yanjiyue/sac/blob/master/Leecode/13%23_Roman%20to%20Integer_06170601.py)
-* [palindrome number](https://github.com/yanjiyue/sac/blob/master/Leecode/9%23_Palindrome%20Number_06170601.py)
-* [remove element](https://github.com/yanjiyue/sac/blob/master/Leecode/27%23_Remove%20Element_06170601.py)
-* [design hashmap](https://github.com/yanjiyue/sac/blob/master/Leecode/706%23_Design%20HashMap_06170601.py)
-* [count and say](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/count%20and%20say.pyhttps://github.com/yanjiyue/sac/blob/master/Leecode/38%23_count%20and%20say_06170601.py)
-* [longest common prefix](https://github.com/yanjiyue/sac/blob/master/Leecode/14%23_%09%20Longest%20Common%20Prefix%20_06170601.py)
-* [plus one](https://github.com/yanjiyue/sac/blob/master/Leecode/66%23_Plus%20One_06170601.py)
-* [sqrt(x)](https://github.com/yanjiyue/sac/blob/master/Leecode/69%23_Sqrt(x)_06170601.py)
+## :star: Leetcode
+* [design linklist](https://github.com/yanjiyue/sac/blob/master/Leetcode/707%23_Design%20Linked%20List_06170601.py)
+* [min stack](https://github.com/yanjiyue/sac/blob/master/Leetcode/155%23_Min%20Stack_06170601.py)
+* [implement queue using stacks](https://github.com/yanjiyue/sac/blob/master/Leetcode/232%23_Implement%20Queue%20using%20Stacks_06170601.py)
+* [Two Sum](https://github.com/yanjiyue/sac/blob/master/Leetcode/1%23_Two%20Sum_06170601.py)
+* [Univalued Binary Tree](https://github.com/yanjiyue/sac/blob/master/Leetcode/965%23_Univalued%20Binary%20Tree_06170601.py)
+* [reverse integer](https://github.com/yanjiyue/sac/blob/master/Leetcode/7%23_Reverse%20Integer_06170601.py)
+* [roman to integer](https://github.com/yanjiyue/sac/blob/master/Leetcode/13%23_Roman%20to%20Integer_06170601.py)
+* [palindrome number](https://github.com/yanjiyue/sac/blob/master/Leetcode/9%23_Palindrome%20Number_06170601.py)
+* [remove element](https://github.com/yanjiyue/sac/blob/master/Leetcode/27%23_Remove%20Element_06170601.py)
+* [design hashmap](https://github.com/yanjiyue/sac/blob/master/Leetcode/706%23_Design%20HashMap_06170601.py)
+* [count and say](https://github.com/yanjiyue/sac/blob/master/Leetcode/38%23_Count%20and%20Say_06170601.py)
+* [longest common prefix](https://github.com/yanjiyue/sac/blob/master/Leetcode/14%23_Longest%20Common%20Prefix%20_06170601.py)
+* [plus one](https://github.com/yanjiyue/sac/blob/master/Leetcode/66%23_Plus%20One_06170601.py)
+* [sqrt(x)](https://github.com/yanjiyue/sac/blob/master/Leetcode/69%23_Sqrt(x)_06170601.py)
 ---
 ---
 ## :book: 行事曆
