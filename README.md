@@ -8,7 +8,10 @@
 |係級|巨資三B|
 
 ---
-
+## Repository檔案結構
+|文件夾|HW*|CS50|Leetcode|
+|---|---|---|---|
+|存放內容|各次作業|學習CS50的筆記|練習試題|
 ## :star: 作業
 |hw1：[quick sort](https://github.com/yanjiyue/sac/blob/master/HW1/quicksort.ipynb)作業及[推導圖](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.png)|
 |---|
