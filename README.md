@@ -1,4 +1,13 @@
-# 資料結構與演算法——楊子越
+# 資料結構與演算法
+* 本Repository為資料結構與演算法建立，用於存放作業、練習、筆記等
+---
+## 個人介紹
+|姓名|楊子越|
+|學校|東吳大學|
+|係級|巨資三B|
+
+---
+
 ## :star: 作業
 |hw1：[quick sort](https://github.com/yanjiyue/sac/blob/master/HW1/quicksort.ipynb)作業及[推導圖](https://github.com/yanjiyue/sac/blob/master/%E4%BD%9C%E6%A5%AD/quicksort.png)|
 |---|
