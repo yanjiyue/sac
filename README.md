@@ -7,12 +7,14 @@
 |係級|巨資三B|
 
 ---
+---
 
 ## :open_file_folder:Repository檔案結構
 |文件夾|HW*|[CS50](https://github.com/yanjiyue/sac/tree/master/CS50)|[Leetcode](https://github.com/yanjiyue/sac/tree/master/Leetcode)|
 |---|---|---|---|
 |存放內容|各次作業|學習CS50的筆記|練習試題|
 
+---
 ---
 
 ## :star: 作業
@@ -24,6 +26,13 @@
 |[HW5](https://github.com/yanjiyue/sac/tree/master/HW5)|
 |[HW6](https://github.com/yanjiyue/sac/tree/master/HW6)|
 
+---
+---
+## :heart:心得
+資料結構以及演算方法對於簡化分析問題具有十分重要之意義
+或許對於小筆資料差別不大，但一旦需處理大量數據則必然顯示其優越性
+
+---
 ---
 ## :star: Leetcode
 * [design linklist](https://github.com/yanjiyue/sac/blob/master/Leetcode/707%23_Design%20Linked%20List_06170601.py)
@@ -45,6 +54,7 @@
 ## :book: 行事曆
 ### week1
 無
+
 ---
 ### week2
 * [linked list](https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.p)
