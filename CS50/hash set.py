@@ -32,9 +32,6 @@ class ListNode:
 class MyHashSet:
 
     def __init__(self,capacity=100):
-        """
-        Initialize your data structure here.
-        """
         self.capacity = capacity
         self.data = [None] * capacity
 
@@ -64,9 +61,7 @@ class MyHashSet:
 
 
     def contains(self, key: int) -> bool:
-        """
-        Returns true if this set contains the specified element
-        """
+        
         idx = key % self.capacity
         node = self.data[idx]
         while node:
@@ -74,10 +69,3 @@ class MyHashSet:
                 return True
             node = node.next
         return False
-
-
-# Your MyHashSet object will be instantiated and called as such:
-# obj = MyHashSet()
-# obj.add(key)
-# obj.remove(key)
-# param_3 = obj.contains(key)
