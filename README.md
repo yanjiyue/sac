@@ -8,7 +8,7 @@
 
 ---
 ## Repository檔案結構
-|文件夾|HW*|CS50|Leetcode|
+|文件夾|HW*|[CS50](https://github.com/yanjiyue/sac/tree/master/CS50)|[Leetcode](https://github.com/yanjiyue/sac/tree/master/Leetcode)|
 |---|---|---|---|
 |存放內容|各次作業|學習CS50的筆記|練習試題|
 
