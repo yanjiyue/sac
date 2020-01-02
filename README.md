@@ -9,21 +9,21 @@
 
 ---
 ## :star: 練習
-* [design linklist](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/design%20linked%20list.py)
-* [min stack](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/min%20stack.py)
-* [implement queue using stacks](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Implement%20Queue%20using%20Stacks.py)
+* [design linklist](https://github.com/yanjiyue/sac/blob/master/Leecode/707%23_Design%20Linked%20List_06170601.py)
+* [min stack](https://github.com/yanjiyue/sac/blob/master/Leecode/155%23_Min%20Stack_06170601.py)
+* [implement queue using stacks](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Implement%20Queue%20using%20Stacks.pyhttps://github.com/yanjiyue/sac/blob/master/Leecode/232%23_Implement%20Queue%20using%20Stacks_06170601.py)
 * [set mismatch](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/set%20mismatch%E8%A7%A3%E9%87%8B)
-* [Two Sum](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/two%20sum.py)
-* [Univalued Binary Tree](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/Univalued%20Binary%20Tree.py)
-* [reverse integer](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/reverse%20integer.py)
-* [roman to integer](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/roman%20to%20integer.py)
-* [palindrome number](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/palindrome%20number.py)
-* [remove element](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/remove%20element.py)
-* [design hashmap](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/design%20hashmap.py)
-* [count and say](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/count%20and%20say.py)
-* [longest common prefix](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/longest%20common%20prefix.py)
-* [plus one](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/plus%20one.py)
-* [sqrt(x)](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/sqrt(x).py)
+* [Two Sum](https://github.com/yanjiyue/sac/blob/master/Leecode/1%23_Two%20Sum_06170601.py)
+* [Univalued Binary Tree](https://github.com/yanjiyue/sac/blob/master/Leecode/965%23_Univalued%20Binary%20Tree_06170601.py)
+* [reverse integer](https://github.com/yanjiyue/sac/blob/master/Leecode/7%23_Reverse%20Integer_06170601.py)
+* [roman to integer](https://github.com/yanjiyue/sac/blob/master/Leecode/13%23_Roman%20to%20Integer_06170601.py)
+* [palindrome number](https://github.com/yanjiyue/sac/blob/master/Leecode/9%23_Palindrome%20Number_06170601.py)
+* [remove element](https://github.com/yanjiyue/sac/blob/master/Leecode/27%23_Remove%20Element_06170601.py)
+* [design hashmap](https://github.com/yanjiyue/sac/blob/master/Leecode/706%23_Design%20HashMap_06170601.py)
+* [count and say](https://github.com/yanjiyue/sac/blob/master/%E7%B7%B4%E7%BF%92/count%20and%20say.pyhttps://github.com/yanjiyue/sac/blob/master/Leecode/38%23_count%20and%20say_06170601.py)
+* [longest common prefix](https://github.com/yanjiyue/sac/blob/master/Leecode/14%23_%09%20Longest%20Common%20Prefix%20_06170601.py)
+* [plus one](https://github.com/yanjiyue/sac/blob/master/Leecode/66%23_Plus%20One_06170601.py)
+* [sqrt(x)](https://github.com/yanjiyue/sac/blob/master/Leecode/69%23_Sqrt(x)_06170601.py)
 ---
 ---
 ## :book: 課程資料
