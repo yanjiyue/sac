@@ -133,4 +133,19 @@ class Graph():
                 else:
                     left.append(a)
             return self.quicksort(left)+[mid]+self.quicksort(right)
-    
+
+"""
+https://www.cnblogs.com/skywang12345/p/3711496.html
+https://blog.csdn.net/sm20170867238/article/details/89988982
+https://github.com/yanjiyue/sac/blob/master/HW1/quicksort.ipynb
+https://blog.csdn.net/aivenzhong/article/details/93648557
+https://www.bilibili.com/video/av79186816?from=search&seid=17195856858988781128
+https://www.bilibili.com/video/av36884622/?spm_id_from=333.788.videocard.5
+https://www.bilibili.com/video/av36885495/?spm_id_from=333.788.videocard.2
+https://www.bilibili.com/video/av36884375?from=search&seid=718402740995726549
+https://www.bilibili.com/video/av26403085?from=search&seid=718402740995726549
+https://baike.baidu.com/item/最短路径/6334920?fr=aladdin
+https://blog.csdn.net/yalishadaa/article/details/55827681
+https://baike.baidu.com/item/最小生成树/5223845?fr=aladdin
+https://www.jianshu.com/p/4377fa388ab9
+"""
